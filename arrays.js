@@ -1,3 +1,5 @@
+let choclateBars = [sn]
+
 function addElementToBeginningOfArray(array, element){
   const new_array = [element,...array]
   return new_array
